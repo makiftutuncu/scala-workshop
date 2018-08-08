@@ -8,6 +8,6 @@ Material and Documents for the Scala Workshop in [VNGRS](https://github.com/vngr
 ### Curriculum
 
 * Week 1
-  * [Introduction](/week01/1-introduction.md)
-  * [Why Scala?](/week01/2-why-scala.md)
+  * [Introduction](/src/week01/1-introduction.md)
+  * [Why Scala?](/src/week01/2-why-scala.md)
 
